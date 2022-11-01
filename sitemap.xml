@@ -313,6 +313,13 @@
   </url>
   
   <url>
+    <loc>https://ivylegends.cn/tags/DPlayer/</loc>
+    <lastmod>2022-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ivylegends.cn/tags/Hexo/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -327,7 +334,7 @@
   </url>
   
   <url>
-    <loc>https://ivylegends.cn/tags/DPlayer/</loc>
+    <loc>https://ivylegends.cn/tags/platformio/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -342,13 +349,6 @@
   
   <url>
     <loc>https://ivylegends.cn/tags/Error/</loc>
-    <lastmod>2022-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ivylegends.cn/tags/platformio/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
