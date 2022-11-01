@@ -299,13 +299,6 @@
 
   
   <url>
-    <loc>https://ivylegends.cn/tags/DPlayer/</loc>
-    <lastmod>2022-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ivylegends.cn/tags/C/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,14 +313,7 @@
   </url>
   
   <url>
-    <loc>https://ivylegends.cn/tags/Keil/</loc>
-    <lastmod>2022-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ivylegends.cn/tags/Error/</loc>
+    <loc>https://ivylegends.cn/tags/DPlayer/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -342,6 +328,20 @@
   
   <url>
     <loc>https://ivylegends.cn/tags/Butterfly/</loc>
+    <lastmod>2022-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivylegends.cn/tags/Keil/</loc>
+    <lastmod>2022-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivylegends.cn/tags/Error/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
