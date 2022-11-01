@@ -334,6 +334,13 @@
   </url>
   
   <url>
+    <loc>https://ivylegends.cn/tags/platformio/</loc>
+    <lastmod>2022-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ivylegends.cn/tags/Keil/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,13 +349,6 @@
   
   <url>
     <loc>https://ivylegends.cn/tags/Error/</loc>
-    <lastmod>2022-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ivylegends.cn/tags/platformio/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
