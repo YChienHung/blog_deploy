@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', function () {
       this.classList.toggle('expand-done')
     }
 
-    function createEle (lang, item, service) {
+    function createEle(lang, item, service) {
       const fragment = document.createDocumentFragment()
 
       if (isShowTool) {
@@ -205,18 +205,73 @@ document.addEventListener('DOMContentLoaded', function () {
   /**
    * PhotoFigcaption
    */
-  function addPhotoFigcaption () {
+  function addPhotoFigcaption() {
+    var chapter_name_arr = [""]
+    var chapter_img_index_arr = [0]
+    var chapter_arr = document.getElementsByTagName("H2")
+    for (let i = 0; i < chapter_arr.length; i++) {
+      chapter_name_arr.push(chapter_arr[i].id)
+      chapter_img_index_arr.push(1)
+    }
     document.querySelectorAll('#article-container img').forEach(function (item) {
       const parentEle = item.parentNode
+      var tempEle = item.parentNode
+      do {
+        tempEle = tempEle.previousElementSibling
+      }
+      while (tempEle.nodeName != 'H2');
+      var chapter_index = chapter_name_arr.indexOf(tempEle.id);
       const altValue = item.title || item.alt
       if (altValue && !parentEle.parentNode.classList.contains('justified-gallery')) {
         const ele = document.createElement('div')
         ele.className = 'img-alt is-center'
-        ele.textContent = altValue
+        ele.textContent = "图" + chapter_index + "." + (chapter_img_index_arr[chapter_index]++) + " " + altValue
         parentEle.insertBefore(ele, item.nextSibling)
       }
     })
   }
+
+  function titlesort(before, ele, level) {
+    var nextEle = ele;
+    var index = 1
+    var isContinue = false
+    do {
+      isContinue = true
+      nextEle = nextEle.nextElementSibling
+      if (nextEle === null)
+        break
+
+      if (nextEle.nodeName[0] == "H") {
+        var nextLevel = parseInt(nextEle.nodeName[1])
+        if (nextLevel >= 1 && nextLevel <= 6) {
+          if (nextLevel == level + 1) {
+            nextEle.innerHTML = before + "." + (index) + " " + nextEle.id
+            if (nextLevel < 5)
+              titlesort(before + "." + (index), nextEle, level + 1)
+            index += 1
+          }
+          else {
+            isContinue = false
+          }
+        }
+      }
+
+    } while (isContinue);
+  }
+
+  /**
+   * addTitleIndex
+   */
+  function addTitleIndex() {
+    var H2_arr = document.getElementsByTagName("H2")
+    // H4_arr[k].innerHTML = (i + 1) + "." + (j + 1) + "." + (k + 1) + " " + H4_arr[k].id\
+    // H3_arr[j].innerHTML = (i + 1) + "." + (j + 1) + " " + H3_arr[j].id
+    for (let i = 0; i < H2_arr.length; i++) {
+      H2_arr[i].innerHTML = (i + 1) + " " + H2_arr[i].id
+      titlesort((i + 1), H2_arr[i], 2)
+    }
+  }
+
 
   /**
    * Lightbox
@@ -265,7 +320,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // find the scroll direction
-    function scrollDirection (currentTop) {
+    function scrollDirection(currentTop) {
       const result = currentTop > initTop // true is down & false is up
       initTop = currentTop
       return result
@@ -278,38 +333,38 @@ document.addEventListener('DOMContentLoaded', function () {
     const isChatBtnShow = typeof chatBtnShow === 'function'
 
     const scrollTask = btf.throttle(() => {
-        const currentTop = window.scrollY || document.documentElement.scrollTop
-        const isDown = scrollDirection(currentTop)
-        if (currentTop > 56) {
-          if (isDown) {
-            if ($header.classList.contains('nav-visible')) $header.classList.remove('nav-visible')
-            if (isChatBtnShow && isChatShow === true) {
-              chatBtnHide()
-              isChatShow = false
-            }
-          } else {
-            if (!$header.classList.contains('nav-visible')) $header.classList.add('nav-visible')
-            if (isChatBtnHide && isChatShow === false) {
-              chatBtnShow()
-              isChatShow = true
-            }
-          }
-          $header.classList.add('nav-fixed')
-          if (window.getComputedStyle($rightside).getPropertyValue('opacity') === '0') {
-            $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
+      const currentTop = window.scrollY || document.documentElement.scrollTop
+      const isDown = scrollDirection(currentTop)
+      if (currentTop > 56) {
+        if (isDown) {
+          if ($header.classList.contains('nav-visible')) $header.classList.remove('nav-visible')
+          if (isChatBtnShow && isChatShow === true) {
+            chatBtnHide()
+            isChatShow = false
           }
         } else {
-          if (currentTop === 0) {
-            $header.classList.remove('nav-fixed', 'nav-visible')
+          if (!$header.classList.contains('nav-visible')) $header.classList.add('nav-visible')
+          if (isChatBtnHide && isChatShow === false) {
+            chatBtnShow()
+            isChatShow = true
           }
-          $rightside.style.cssText = "opacity: ''; transform: ''"
         }
-
-        if (document.body.scrollHeight <= innerHeight) {
+        $header.classList.add('nav-fixed')
+        if (window.getComputedStyle($rightside).getPropertyValue('opacity') === '0') {
           $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
         }
-      }, 200)
-    
+      } else {
+        if (currentTop === 0) {
+          $header.classList.remove('nav-fixed', 'nav-visible')
+        }
+        $rightside.style.cssText = "opacity: ''; transform: ''"
+      }
+
+      if (document.body.scrollHeight <= innerHeight) {
+        $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
+      }
+    }, 200)
+
     window.scrollCollect = scrollTask
 
     window.addEventListener('scroll', scrollCollect)
@@ -455,7 +510,7 @@ document.addEventListener('DOMContentLoaded', function () {
       newEle.className = 'fas fa-sign-out-alt exit-readmode'
       $body.appendChild(newEle)
 
-      function clickFn () {
+      function clickFn() {
         $body.classList.remove('read-mode')
         newEle.remove()
         newEle.removeEventListener('click', clickFn)
@@ -556,10 +611,10 @@ document.addEventListener('DOMContentLoaded', function () {
       let textFont; const copyFont = window.getSelection(0).toString()
       if (copyFont.length > copyright.limitCount) {
         textFont = copyFont + '\n' + '\n' + '\n' +
-        copyright.languages.author + '\n' +
-        copyright.languages.link + window.location.href + '\n' +
-        copyright.languages.source + '\n' +
-        copyright.languages.info
+          copyright.languages.author + '\n' +
+          copyright.languages.link + window.location.href + '\n' +
+          copyright.languages.source + '\n' +
+          copyright.languages.info
       } else {
         textFont = copyFont
       }
@@ -759,6 +814,8 @@ document.addEventListener('DOMContentLoaded', function () {
     GLOBAL_CONFIG_SITE.isHome && scrollDownInIndex()
     addHighlightTool()
     GLOBAL_CONFIG.isPhotoFigcaption && addPhotoFigcaption()
+    GLOBAL_CONFIG.isTitleIndex && addTitleIndex()
+
     scrollFn()
 
     const $jgEle = document.querySelectorAll('#article-container .fj-gallery')

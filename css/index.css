@@ -1499,6 +1499,7 @@ a:hover {
 }
 .is-center {
   text-align: center;
+  font-size: 20px;
 }
 .copy-true {
   -webkit-user-select: all;

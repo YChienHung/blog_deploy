@@ -47,6 +47,6 @@ function switchPostChart() {
         }
     }
 }
-document.getElementById("mode-button").addEventListener("click", function () {
+document.getElementById("darkmode").addEventListener("click", function () {
     setTimeout(switchPostChart, 100)
 })

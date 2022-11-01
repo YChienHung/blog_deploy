@@ -6,7 +6,7 @@
   <link href="https://ivylegends.cn/atom.xml" rel="self"/>
   
   <link href="https://ivylegends.cn/"/>
-  <updated>2022-10-28T08:27:16.635Z</updated>
+  <updated>2022-11-01T04:04:30.568Z</updated>
   <id>https://ivylegends.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文章标注测试</title>
+    <link href="https://ivylegends.cn/posts/a7287e5.html"/>
+    <id>https://ivylegends.cn/posts/a7287e5.html</id>
+    <published>2022-10-30T11:52:36.000Z</published>
+    <updated>2022-11-01T04:04:30.568Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;摘要&quot;&gt;&lt;a href=&quot;#摘要&quot; class=&quot;headerlink&quot; title=&quot;摘要&quot;&gt;&lt;/a&gt;摘要&lt;/h2&gt;&lt;h3 id=&quot;fdfg&quot;&gt;&lt;a href=&quot;#fdfg&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>pixhawk 2.4.8 食用手册</title>
@@ -63,7 +84,7 @@
     <link href="https://ivylegends.cn/posts/1231feec.html"/>
     <id>https://ivylegends.cn/posts/1231feec.html</id>
     <published>2022-10-16T11:34:48.000Z</published>
-    <updated>2022-10-30T02:23:03.122Z</updated>
+    <updated>2022-10-31T15:26:13.815Z</updated>
     
     
       
@@ -76,6 +97,10 @@
     
     
     
+    
+    <category term="Hexo" scheme="https://ivylegends.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://ivylegends.cn/tags/Butterfly/"/>
     
   </entry>
   
@@ -338,7 +363,7 @@
     <link href="https://ivylegends.cn/posts/e27e8aa0.html"/>
     <id>https://ivylegends.cn/posts/e27e8aa0.html</id>
     <published>2019-12-27T00:29:46.000Z</published>
-    <updated>2022-10-24T11:34:25.825Z</updated>
+    <updated>2022-10-30T12:33:11.361Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Visual-Studio-简介&quot;&gt;&lt;a href=&quot;#Visual-Studio-简介&quot; class=&quot;headerlink&quot; title=&quot;Visual Studio 简介&quot;&gt;&lt;/a&gt;Visual Studio 简介&lt;/h2&gt;&lt;p&gt;​           &lt;a href=&quot;http://visualstudio.microsoft.com/zh-hans/vs/&quot;&gt;Visual Studio&lt;/a&gt;是最流行的Windows平台应用程序的集成开发环境。不得不说，不安装VS，不能称为程序员（手动滑稽），系统内置了大量的编译环境，如C\C++ 、CSharp、.NET…… 还有我很多至今仍然没有使用过的神奇语言，现在VS2019 已支持自定义安装，嘿嘿，我只安装C\C++&lt;br&gt;</summary>
@@ -379,25 +404,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>记 Python UnicodeDecodeError 修复</title>
-    <link href="https://ivylegends.cn/posts/4709c83f.html"/>
-    <id>https://ivylegends.cn/posts/4709c83f.html</id>
-    <published>2019-07-21T09:41:44.000Z</published>
-    <updated>2022-10-24T11:05:58.785Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;今天打开终端输入python ，回车，突然出现如下情况</summary>
-    
-    
-    
-    
-    <category term="Python" scheme="https://ivylegends.cn/tags/Python/"/>
-    
-    <category term="Bug" scheme="https://ivylegends.cn/tags/Bug/"/>
     
   </entry>
   
