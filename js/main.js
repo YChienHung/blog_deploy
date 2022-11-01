@@ -245,17 +245,16 @@ document.addEventListener('DOMContentLoaded', function () {
         var nextLevel = parseInt(nextEle.nodeName[1])
         if (nextLevel >= 1 && nextLevel <= 6) {
           if (nextLevel == level + 1) {
-            nextEle.innerHTML = before + "." + (index) + " " + nextEle.id
+            nextEle.lastChild.textContent = before + "." + (index) + " " + nextEle.id
             if (nextLevel < 5)
               titlesort(before + "." + (index), nextEle, level + 1)
             index += 1
           }
-          else {
+          else if (nextLevel <= level) {
             isContinue = false
           }
         }
       }
-
     } while (isContinue);
   }
 
@@ -264,10 +263,9 @@ document.addEventListener('DOMContentLoaded', function () {
    */
   function addTitleIndex() {
     var H2_arr = document.getElementsByTagName("H2")
-    // H4_arr[k].innerHTML = (i + 1) + "." + (j + 1) + "." + (k + 1) + " " + H4_arr[k].id\
-    // H3_arr[j].innerHTML = (i + 1) + "." + (j + 1) + " " + H3_arr[j].id
     for (let i = 0; i < H2_arr.length; i++) {
-      H2_arr[i].innerHTML = (i + 1) + " " + H2_arr[i].id
+      console.log(H2_arr[i].id)
+      H2_arr[i].lastChild.textContent = (i + 1) + " " + H2_arr[i].id
       titlesort((i + 1), H2_arr[i], 2)
     }
   }

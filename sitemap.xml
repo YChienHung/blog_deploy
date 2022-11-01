@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ivylegends.cn/posts/a7287e5.html</loc>
+    <loc>https://ivylegends.cn/posts/1231feec.html</loc>
     
     <lastmod>2022-11-01</lastmod>
     
@@ -11,18 +11,18 @@
   </url>
   
   <url>
-    <loc>https://ivylegends.cn/posts/1231feec.html</loc>
+    <loc>https://ivylegends.cn/history/index.html</loc>
     
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ivylegends.cn/history/index.html</loc>
+    <loc>https://ivylegends.cn/posts/a7287e5.html</loc>
     
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -320,6 +320,20 @@
   </url>
   
   <url>
+    <loc>https://ivylegends.cn/tags/Keil/</loc>
+    <lastmod>2022-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivylegends.cn/tags/Error/</loc>
+    <lastmod>2022-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ivylegends.cn/tags/Hexo/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -335,20 +349,6 @@
   
   <url>
     <loc>https://ivylegends.cn/tags/platformio/</loc>
-    <lastmod>2022-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ivylegends.cn/tags/Keil/</loc>
-    <lastmod>2022-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ivylegends.cn/tags/Error/</loc>
     <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
