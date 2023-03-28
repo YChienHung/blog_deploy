@@ -272,13 +272,6 @@
 
   
   <url>
-    <loc>https://ivylegends.cn/tags/DPlayer/</loc>
-    <lastmod>2023-03-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ivylegends.cn/tags/C/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -287,6 +280,13 @@
   
   <url>
     <loc>https://ivylegends.cn/tags/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/</loc>
+    <lastmod>2023-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivylegends.cn/tags/DPlayer/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
