@@ -264,7 +264,6 @@ document.addEventListener('DOMContentLoaded', function () {
   function addTitleIndex() {
     var H2_arr = document.getElementsByTagName("H2")
     for (let i = 0; i < H2_arr.length; i++) {
-      console.log(H2_arr[i].id)
       H2_arr[i].lastChild.textContent = (i + 1) + " " + H2_arr[i].id
       titlesort((i + 1), H2_arr[i], 2)
     }

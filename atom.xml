@@ -6,7 +6,7 @@
   <link href="https://ivylegends.cn/atom.xml" rel="self"/>
   
   <link href="https://ivylegends.cn/"/>
-  <updated>2022-11-01T05:03:19.317Z</updated>
+  <updated>2022-11-04T01:28:34.651Z</updated>
   <id>https://ivylegends.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ivylegends.cn/posts/a7287e5.html"/>
     <id>https://ivylegends.cn/posts/a7287e5.html</id>
     <published>2022-10-30T11:52:36.000Z</published>
-    <updated>2022-11-01T05:03:19.317Z</updated>
+    <updated>2022-11-04T01:28:34.651Z</updated>
     
     
       
@@ -84,7 +84,7 @@
     <link href="https://ivylegends.cn/posts/1231feec.html"/>
     <id>https://ivylegends.cn/posts/1231feec.html</id>
     <published>2022-10-16T11:34:48.000Z</published>
-    <updated>2022-11-01T13:55:25.696Z</updated>
+    <updated>2022-11-04T12:33:00.902Z</updated>
     
     
       
@@ -134,60 +134,10 @@
     <updated>2022-10-24T11:05:58.724Z</updated>
     
     
-    <summary type="html">&lt;p&gt;这是我整理的一些坑，希望不要再遇到了……每一个坑都是一座难以翻越的大山&lt;br&gt;</summary>
+    <summary type="html">&lt;p&gt;这是我整理的一些坑，希望不要再遇到了……每一个坑都是一座难以翻越的大山&lt;br&gt;&lt;/p&gt;</summary>
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>STM32之浅析BootLoader</title>
-    <link href="https://ivylegends.cn/posts/e82bf63a.html"/>
-    <id>https://ivylegends.cn/posts/e82bf63a.html</id>
-    <published>2020-06-12T08:08:46.000Z</published>
-    <updated>2022-10-24T11:05:58.756Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;span</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>gcc编译器下输入输出转串口</title>
-    <link href="https://ivylegends.cn/posts/9cec8ee0.html"/>
-    <id>https://ivylegends.cn/posts/9cec8ee0.html</id>
-    <published>2020-06-08T02:24:00.000Z</published>
-    <updated>2022-10-24T11:05:58.765Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;span</summary>
-        
-      
-    
-    
-    
-    <category term="单片机" scheme="https://ivylegends.cn/categories/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
-    
-    
-    <category term="gcc" scheme="https://ivylegends.cn/tags/gcc/"/>
-    
-    <category term="stm32" scheme="https://ivylegends.cn/tags/stm32/"/>
-    
-    <category term="usart" scheme="https://ivylegends.cn/tags/usart/"/>
     
   </entry>
   
@@ -243,27 +193,6 @@
   </entry>
   
   <entry>
-    <title>单片机之IIC协议</title>
-    <link href="https://ivylegends.cn/posts/52123a5.html"/>
-    <id>https://ivylegends.cn/posts/52123a5.html</id>
-    <published>2020-01-01T04:12:35.000Z</published>
-    <updated>2022-10-24T11:05:58.769Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;span</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>单片机之串行口通信</title>
     <link href="https://ivylegends.cn/posts/b0d1ebb.html"/>
     <id>https://ivylegends.cn/posts/b0d1ebb.html</id>
@@ -272,7 +201,7 @@
     
     
     <summary type="html">&lt;ol&gt;
-&lt;li&gt;&lt;h2 id=&quot;基本通信方式&quot;&gt;&lt;a href=&quot;#基本通信方式&quot; class=&quot;headerlink&quot; title=&quot;基本通信方式&quot;&gt;&lt;/a&gt;基本通信方式&lt;/h2&gt;</summary>
+&lt;li&gt;&lt;h2 id=&quot;基本通信方式&quot;&gt;&lt;a href=&quot;#基本通信方式&quot; class=&quot;headerlink&quot; title=&quot;基本通信方式&quot;&gt;&lt;/a&gt;基本通信方式&lt;/h2&gt;&lt;/li&gt;&lt;/ol&gt;</summary>
     
     
     
@@ -290,7 +219,7 @@
     <summary type="html">&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;h3 id=&quot;中断&quot;&gt;&lt;a href=&quot;#中断&quot; class=&quot;headerlink&quot; title=&quot;中断&quot;&gt;&lt;/a&gt;中断&lt;/h3&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;​        在CPU处理某一事件A时，发生了另一事件B，请求CPU迅速去处理（中断发生）；CPU暂时停止当前的工作（中断响应），转去处理事件B（中断服务）；待CPU处理事件B完毕后，再回到原来事件A被中断的地方继续处理事件A（中断返回），这过程称为中断。</summary>
+&lt;p&gt;​        在CPU处理某一事件A时，发生了另一事件B，请求CPU迅速去处理（中断发生）；CPU暂时停止当前的工作（中断响应），转去处理事件B（中断服务）；待CPU处理事件B完毕后，再回到原来事件A被中断的地方继续处理事件A（中断返回），这过程称为中断。&lt;/p&gt;</summary>
     
     
     
@@ -310,7 +239,7 @@
     
     
     <summary type="html">&lt;ol&gt;
-&lt;li&gt;&lt;h2 id=&quot;中文显示乱码&quot;&gt;&lt;a href=&quot;#中文显示乱码&quot; class=&quot;headerlink&quot; title=&quot;中文显示乱码&quot;&gt;&lt;/a&gt;中文显示乱码&lt;/h2&gt;&lt;p&gt;点击Edit - Configuration ，如图所示，点击ok即可&lt;/p&gt;</summary>
+&lt;li&gt;&lt;h2 id=&quot;中文显示乱码&quot;&gt;&lt;a href=&quot;#中文显示乱码&quot; class=&quot;headerlink&quot; title=&quot;中文显示乱码&quot;&gt;&lt;/a&gt;中文显示乱码&lt;/h2&gt;&lt;p&gt;点击Edit - Configuration ，如图所示，点击ok即可&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary>
     
     
     
@@ -330,7 +259,7 @@
     
     
     <summary type="html">&lt;h2 id=&quot;什么叫规范？&quot;&gt;&lt;a href=&quot;#什么叫规范？&quot; class=&quot;headerlink&quot; title=&quot;什么叫规范？&quot;&gt;&lt;/a&gt;什么叫规范？&lt;/h2&gt;&lt;p&gt;​        在&lt;a href=&quot;http://c.biancheng.net/c/&quot;&gt;C语言&lt;/a&gt;中不遵守编译器的规定，编译器在编译时就会报错，这个规定叫作规则。但是有一种规定，它是一种人为的、约定成俗的，即使不按照那种规定也不会出错，这种规定就叫作规范。&lt;/p&gt;
-&lt;p&gt;​        虽然我们不按照规范也不会出错，但是那样代码写得就会很乱。大家刚开始学习C语言的时候，第一步不是说要把程序写正确，而是要</summary>
+&lt;p&gt;​        虽然我们不按照规范也不会出错，但是那样代码写得就会很乱。大家刚开始学习C语言的时候，第一步不是说要把程序写正确，而是要&lt;/p&gt;</summary>
     
     
     
@@ -349,7 +278,7 @@
     <updated>2022-10-24T11:05:58.775Z</updated>
     
     
-    <summary type="html">&lt;p&gt;特地写下这篇文章，以便以后复习使用。</summary>
+    <summary type="html">&lt;p&gt;特地写下这篇文章，以便以后复习使用。&lt;/p&gt;</summary>
     
     
     
@@ -363,10 +292,10 @@
     <link href="https://ivylegends.cn/posts/e27e8aa0.html"/>
     <id>https://ivylegends.cn/posts/e27e8aa0.html</id>
     <published>2019-12-27T00:29:46.000Z</published>
-    <updated>2022-10-30T12:33:11.361Z</updated>
+    <updated>2022-11-04T01:32:37.117Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;Visual-Studio-简介&quot;&gt;&lt;a href=&quot;#Visual-Studio-简介&quot; class=&quot;headerlink&quot; title=&quot;Visual Studio 简介&quot;&gt;&lt;/a&gt;Visual Studio 简介&lt;/h2&gt;&lt;p&gt;​           &lt;a href=&quot;http://visualstudio.microsoft.com/zh-hans/vs/&quot;&gt;Visual Studio&lt;/a&gt;是最流行的Windows平台应用程序的集成开发环境。不得不说，不安装VS，不能称为程序员（手动滑稽），系统内置了大量的编译环境，如C\C++ 、CSharp、.NET…… 还有我很多至今仍然没有使用过的神奇语言，现在VS2019 已支持自定义安装，嘿嘿，我只安装C\C++&lt;br&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;Visual-Studio-简介&quot;&gt;&lt;a href=&quot;#Visual-Studio-简介&quot; class=&quot;headerlink&quot; title=&quot;Visual Studio 简介&quot;&gt;&lt;/a&gt;Visual Studio 简介&lt;/h2&gt;&lt;p&gt;​           &lt;a href=&quot;http://visualstudio.microsoft.com/zh-hans/vs/&quot;&gt;Visual Studio&lt;/a&gt;是最流行的Windows平台应用程序的集成开发环境。不得不说，不安装VS，不能称为程序员（手动滑稽），系统内置了大量的编译环境，如C\C++ 、CSharp、.NET…… 还有我很多至今仍然没有使用过的神奇语言，现在VS2019 已支持自定义安装，嘿嘿，我只安装C\C++&lt;br&gt;&lt;/p&gt;</summary>
     
     
     
@@ -385,7 +314,7 @@
     <updated>2022-10-24T11:05:58.758Z</updated>
     
     
-    <summary type="html">&lt;p&gt;1.什么是人生？人生就是永不休止的奋斗！只有选定了目标并在奋斗中感到自己的努力没有虚掷，这样的生活才是充实的，精神也会永远年轻。&lt;br&gt;</summary>
+    <summary type="html">&lt;p&gt;1.什么是人生？人生就是永不休止的奋斗！只有选定了目标并在奋斗中感到自己的努力没有虚掷，这样的生活才是充实的，精神也会永远年轻。&lt;br&gt;&lt;/p&gt;</summary>
     
     
     
@@ -400,7 +329,59 @@
     <updated>2022-10-24T11:05:58.768Z</updated>
     
     
-    <summary type="html">&lt;p&gt;自信五要素 :</summary>
+    <summary type="html">&lt;p&gt;自信五要素 :&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>记 Python UnicodeDecodeError 修复</title>
+    <link href="https://ivylegends.cn/posts/4709c83f.html"/>
+    <id>https://ivylegends.cn/posts/4709c83f.html</id>
+    <published>2019-07-21T09:41:44.000Z</published>
+    <updated>2022-10-24T11:05:58.785Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天打开终端输入python ，回车，突然出现如下情况&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Python" scheme="https://ivylegends.cn/tags/Python/"/>
+    
+    <category term="Bug" scheme="https://ivylegends.cn/tags/Bug/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DPlayer 调用测试</title>
+    <link href="https://ivylegends.cn/posts/5fb02ac6.html"/>
+    <id>https://ivylegends.cn/posts/5fb02ac6.html</id>
+    <published>2019-07-21T09:40:54.000Z</published>
+    <updated>2022-10-30T12:26:57.585Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h3&gt;&lt;p&gt;​        DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="DPlayer" scheme="https://ivylegends.cn/tags/DPlayer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ivylegends.cn/posts/4a17b156.html"/>
+    <id>https://ivylegends.cn/posts/4a17b156.html</id>
+    <published>2019-07-20T11:23:44.000Z</published>
+    <updated>2022-10-24T11:05:58.760Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;</summary>
     
     
     
