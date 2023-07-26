@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://ivylegends.cn/categories/index.html</loc>
-    
-    <lastmod>2023-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ivylegends.cn/about/index.html</loc>
     
     <lastmod>2023-07-26</lastmod>
@@ -38,7 +29,34 @@
   </url>
   
   <url>
+    <loc>https://ivylegends.cn/categories/index.html</loc>
+    
+    <lastmod>2023-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ivylegends.cn/charts/index.html</loc>
+    
+    <lastmod>2023-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivylegends.cn/posts/e9b8d0e.html</loc>
+    
+    <lastmod>2023-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivylegends.cn/posts/66eed666.html</loc>
     
     <lastmod>2023-07-26</lastmod>
     
@@ -183,24 +201,6 @@
   
   <url>
     <loc>https://ivylegends.cn/posts/6b7d0a1b.html</loc>
-    
-    <lastmod>2023-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ivylegends.cn/posts/e9b8d0e.html</loc>
-    
-    <lastmod>2023-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ivylegends.cn/posts/66eed666.html</loc>
     
     <lastmod>2023-07-26</lastmod>
     
