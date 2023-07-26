@@ -49,6 +49,7 @@ var CountUp = function (target, startVal, endVal, decimals, duration, options) {
             clearTimeout(id);
         };
     }
+
     function formatNumber(num) {
         num = num.toFixed(self.decimals);
         num += "";
@@ -76,12 +77,15 @@ var CountUp = function (target, startVal, endVal, decimals, duration, options) {
         }
         return self.options.prefix + x1 + x2 + self.options.suffix;
     }
+
     function easeOutExpo(t, b, c, d) {
         return (c * (-Math.pow(2, (-10 * t) / d) + 1) * 1024) / 1023 + b;
     }
+
     function ensureNumber(n) {
         return typeof n === "number" && !isNaN(n);
     }
+
     self.initialize = function () {
         if (self.initialized) {
             return true;

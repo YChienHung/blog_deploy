@@ -1,13 +1,26 @@
+
+#nav-right {
+    flex: 1 1 auto;
+    justify-content: flex-end;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
 /* 导航栏居中 */
-#nav .menus_items {
-    /* display: inline; 这个带不带都可以，本来就是inline */
+#nav #menus {
+    display: flex;
+    justify-content: center;
+    width: 100%;
     position: absolute;
-    width: fit-content;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 0;
+    margin: 0;
+    transform: translateZ(0);
 }
 
 /* 子菜单纵列变横排 */
+/*
 #nav .menus_items .menus_item:hover .menus_item_child {
     display: flex;
 }
+*/

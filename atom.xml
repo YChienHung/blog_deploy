@@ -1,60 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>YChienHung&#39;s blog</title>
+  <title>YangChienHung&#39;s Blog</title>
   <icon>https://ivylegends.cn/icon.png</icon>
   
   <link href="https://ivylegends.cn/atom.xml" rel="self"/>
   
   <link href="https://ivylegends.cn/"/>
-  <updated>2022-11-04T01:28:34.651Z</updated>
+  <updated>2023-07-26T04:04:30.839Z</updated>
   <id>https://ivylegends.cn/</id>
   
   <author>
-    <name>YChienHung</name>
+    <name>YangChienHung</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>文章标注测试</title>
-    <link href="https://ivylegends.cn/posts/a7287e5.html"/>
-    <id>https://ivylegends.cn/posts/a7287e5.html</id>
-    <published>2022-10-30T11:52:36.000Z</published>
-    <updated>2022-11-04T01:28:34.651Z</updated>
+    <title>好了歌注</title>
+    <link href="https://ivylegends.cn/posts/ce44b1dc.html"/>
+    <id>https://ivylegends.cn/posts/ce44b1dc.html</id>
+    <published>2023-07-24T15:43:29.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h2&gt;&lt;h3 id=&quot;1-1&quot;&gt;&lt;a href=&quot;#1-1&quot; class=&quot;headerlink&quot; title=&quot;1.1&quot;&gt;&lt;/a&gt;1.1&lt;/h3&gt;&lt;h3</summary>
+    <summary type="html">&lt;div class=&#39;poem&#39;&gt;&lt;div class=&#39;poem-title&#39;&gt;好了歌注&lt;/div&gt;&lt;div</summary>
         
       
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>pixhawk 2.4.8 食用手册</title>
-    <link href="https://ivylegends.cn/posts/8fa6be2e.html"/>
-    <id>https://ivylegends.cn/posts/8fa6be2e.html</id>
-    <published>2022-10-28T07:06:05.000Z</published>
-    <updated>2022-10-28T08:27:16.635Z</updated>
+    <category term="人文哲学" scheme="https://ivylegends.cn/categories/%E4%BA%BA%E6%96%87%E5%93%B2%E5%AD%A6/"/>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;参考文献：&lt;br&gt;&lt;a</summary>
-        
-      
+    <category term="红楼梦" scheme="https://ivylegends.cn/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/"/>
     
-    
-    
+    <category term="诗歌" scheme="https://ivylegends.cn/tags/%E8%AF%97%E6%AD%8C/"/>
     
   </entry>
   
@@ -62,20 +47,28 @@
     <title>Qt安装qwt指南</title>
     <link href="https://ivylegends.cn/posts/66eed666.html"/>
     <id>https://ivylegends.cn/posts/66eed666.html</id>
-    <published>2022-10-18T09:46:35.000Z</published>
-    <updated>2022-10-24T11:05:58.753Z</updated>
+    <published>2022-10-18T17:46:35.000Z</published>
+    <updated>2023-07-26T04:04:30.835Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;参考文献：&lt;a href=&quot;https://blog.csdn.net/only_1/article/details/121145293&quot;&gt;https://blog.csdn.net/only_1/article/details/121145293&lt;/a&gt;&lt;br&gt;    </summary>
+    <summary type="html">&lt;h2 id=&quot;参考文献&quot;&gt;&lt;a href=&quot;#参考文献&quot; class=&quot;headerlink&quot; title=&quot;参考文献&quot;&gt;&lt;/a&gt;参考文献&lt;/h2&gt;&lt;div class=&quot;reference-source&quot;&gt;&lt;span class=&quot;hidden-anchor&quot;</summary>
         
       
     
     
     
+    <category term="开发框架" scheme="https://ivylegends.cn/categories/%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6/"/>
+    
+    
+    <category term="QT" scheme="https://ivylegends.cn/tags/QT/"/>
+    
+    <category term="QWT" scheme="https://ivylegends.cn/tags/QWT/"/>
+    
+    <category term="Plugins" scheme="https://ivylegends.cn/tags/Plugins/"/>
     
   </entry>
   
@@ -83,19 +76,15 @@
     <title>Hexo个人博客搭建指北</title>
     <link href="https://ivylegends.cn/posts/1231feec.html"/>
     <id>https://ivylegends.cn/posts/1231feec.html</id>
-    <published>2022-10-16T11:34:48.000Z</published>
-    <updated>2022-11-04T12:33:00.902Z</updated>
+    <published>2022-10-16T19:34:48.000Z</published>
+    <updated>2023-07-26T04:04:30.835Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;安装博客环境&quot;&gt;&lt;a href=&quot;#安装博客环境&quot; class=&quot;headerlink&quot; title=&quot;安装博客环境&quot;&gt;&lt;/a&gt;安装博客环境&lt;/h2&gt;&lt;h3 id=&quot;更换镜像源&quot;&gt;&lt;a href=&quot;#更换镜像源&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">个人博客的装修记录</summary>
     
     
+    
+    <category term="前端" scheme="https://ivylegends.cn/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
     <category term="Hexo" scheme="https://ivylegends.cn/tags/Hexo/"/>
@@ -108,21 +97,27 @@
     <title>战忽局警句</title>
     <link href="https://ivylegends.cn/posts/2d5c80db.html"/>
     <id>https://ivylegends.cn/posts/2d5c80db.html</id>
-    <published>2020-07-28T11:21:49.000Z</published>
-    <updated>2022-10-24T11:05:58.783Z</updated>
+    <published>2020-07-28T19:21:49.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;1、热门是昨日的成就，主流是今日的局限，边缘是明日的机会。&lt;/p&gt;
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;热门是昨日的成就，主流是今日的局限，边缘是明日的机会。&lt;/li&gt;
+&lt;/ol&gt;
 </summary>
         
       
     
     
     
+    <category term="人文哲学" scheme="https://ivylegends.cn/categories/%E4%BA%BA%E6%96%87%E5%93%B2%E5%AD%A6/"/>
+    
+    
+    <category term="名人名言" scheme="https://ivylegends.cn/tags/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80/"/>
     
   </entry>
   
@@ -130,14 +125,20 @@
     <title>Clion搭建stm32开发环境的坑</title>
     <link href="https://ivylegends.cn/posts/e9df9350.html"/>
     <id>https://ivylegends.cn/posts/e9df9350.html</id>
-    <published>2020-06-26T02:11:23.000Z</published>
-    <updated>2022-10-24T11:05:58.724Z</updated>
+    <published>2020-06-26T10:11:23.000Z</published>
+    <updated>2023-07-26T04:04:30.835Z</updated>
     
     
-    <summary type="html">&lt;p&gt;这是我整理的一些坑，希望不要再遇到了……每一个坑都是一座难以翻越的大山&lt;br&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;这是我整理的一些坑，希望不要再遇到了……每一个坑都是一座难以翻越的大山&lt;br&gt;</summary>
     
     
     
+    <category term="嵌入式" scheme="https://ivylegends.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    
+    <category term="STM32" scheme="https://ivylegends.cn/tags/STM32/"/>
+    
+    <category term="Clion" scheme="https://ivylegends.cn/tags/Clion/"/>
     
   </entry>
   
@@ -145,19 +146,27 @@
     <title>PlatformIO 之 串口工具的使用</title>
     <link href="https://ivylegends.cn/posts/e9b8d0e.html"/>
     <id>https://ivylegends.cn/posts/e9b8d0e.html</id>
-    <published>2020-06-07T05:08:52.000Z</published>
-    <updated>2022-10-24T11:05:58.750Z</updated>
+    <published>2020-06-07T13:08:52.000Z</published>
+    <updated>2023-07-26T04:04:30.835Z</updated>
     
     
+      
+      
+        
+        
     <summary type="html">&lt;p&gt;先在&lt;code&gt;platformio.ini&lt;/code&gt;下设置一下监听的串口以及波特率,当然这里也可以略过，后面还会讲到&lt;/p&gt;
-&lt;figure class=&quot;highlight ini&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;monitor_speed&lt;/span&gt; = &lt;span class=&quot;number&quot;&gt;9600&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;attr&quot;&gt;monitor_port&lt;/span&gt; = COM3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+&lt;figure class=&quot;highlight ini&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
     
     
     
-    <category term="单片机" scheme="https://ivylegends.cn/categories/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    <category term="嵌入式" scheme="https://ivylegends.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
     
-    <category term="platformio" scheme="https://ivylegends.cn/tags/platformio/"/>
+    <category term="Platformio" scheme="https://ivylegends.cn/tags/Platformio/"/>
+    
+    <category term="Series" scheme="https://ivylegends.cn/tags/Series/"/>
     
   </entry>
   
@@ -165,15 +174,27 @@
     <title>Cpp 中一些类型的转换方法</title>
     <link href="https://ivylegends.cn/posts/38e6e1ff.html"/>
     <id>https://ivylegends.cn/posts/38e6e1ff.html</id>
-    <published>2020-05-27T14:21:37.000Z</published>
-    <updated>2022-10-24T11:05:58.727Z</updated>
+    <published>2020-05-27T22:21:37.000Z</published>
+    <updated>2023-07-26T04:04:30.835Z</updated>
     
     
-    <summary type="html">&lt;p&gt;1、string 转 CString&lt;/p&gt;
-&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;CString.format(&lt;span class=&quot;string&quot;&gt;&amp;quot;%s&amp;quot;&lt;/span&gt;, &lt;span class=&quot;built_in&quot;&gt;string&lt;/span&gt;.c_str());&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;string 转 CString&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&quot;highlight cpp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
     
     
     
+    <category term="编程语言" scheme="https://ivylegends.cn/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="C++" scheme="https://ivylegends.cn/tags/C/"/>
     
   </entry>
   
@@ -181,14 +202,24 @@
     <title>用 Python 画出一个红心</title>
     <link href="https://ivylegends.cn/posts/cbafdc19.html"/>
     <id>https://ivylegends.cn/posts/cbafdc19.html</id>
-    <published>2020-03-19T09:11:25.000Z</published>
-    <updated>2022-10-24T11:05:58.781Z</updated>
+    <published>2020-03-19T17:11:25.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
-    <summary type="html">&lt;p&gt;直接放上代码&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
     
     
     
+    <category term="编程语言" scheme="https://ivylegends.cn/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="Python" scheme="https://ivylegends.cn/tags/Python/"/>
     
   </entry>
   
@@ -196,15 +227,22 @@
     <title>单片机之串行口通信</title>
     <link href="https://ivylegends.cn/posts/b0d1ebb.html"/>
     <id>https://ivylegends.cn/posts/b0d1ebb.html</id>
-    <published>2020-01-01T04:07:24.000Z</published>
-    <updated>2022-10-24T11:05:58.771Z</updated>
+    <published>2020-01-01T12:07:24.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
     <summary type="html">&lt;ol&gt;
-&lt;li&gt;&lt;h2 id=&quot;基本通信方式&quot;&gt;&lt;a href=&quot;#基本通信方式&quot; class=&quot;headerlink&quot; title=&quot;基本通信方式&quot;&gt;&lt;/a&gt;基本通信方式&lt;/h2&gt;&lt;/li&gt;&lt;/ol&gt;</summary>
+&lt;li&gt;&lt;h2 id=&quot;基本通信方式&quot;&gt;&lt;a href=&quot;#基本通信方式&quot; class=&quot;headerlink&quot; title=&quot;基本通信方式&quot;&gt;&lt;/a&gt;基本通信方式&lt;/h2&gt;&lt;/li&gt;
+&lt;/ol&gt;</summary>
     
     
     
+    <category term="嵌入式" scheme="https://ivylegends.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    
+    <category term="Series" scheme="https://ivylegends.cn/tags/Series/"/>
+    
+    <category term="51单片机" scheme="https://ivylegends.cn/tags/51%E5%8D%95%E7%89%87%E6%9C%BA/"/>
     
   </entry>
   
@@ -212,19 +250,21 @@
     <title>单片机之中断</title>
     <link href="https://ivylegends.cn/posts/3c079718.html"/>
     <id>https://ivylegends.cn/posts/3c079718.html</id>
-    <published>2019-12-31T08:20:59.000Z</published>
-    <updated>2022-10-24T11:05:58.773Z</updated>
+    <published>2019-12-31T16:20:59.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;h3 id=&quot;中断&quot;&gt;&lt;a href=&quot;#中断&quot; class=&quot;headerlink&quot; title=&quot;中断&quot;&gt;&lt;/a&gt;中断&lt;/h3&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;​        在CPU处理某一事件A时，发生了另一事件B，请求CPU迅速去处理（中断发生）；CPU暂时停止当前的工作（中断响应），转去处理事件B（中断服务）；待CPU处理事件B完毕后，再回到原来事件A被中断的地方继续处理事件A（中断返回），这过程称为中断。&lt;/p&gt;</summary>
+&lt;p&gt;在CPU处理某一事件A时，发生了另一事件B，请求CPU迅速去处理（中断发生）；CPU暂时停止当前的工作（中断响应），转去处理事件B（中断服务）；待CPU处理事件B完毕后，再回到原来事件A被中断的地方继续处理事件A（中断返回），这过程称为中断。</summary>
     
     
     
+    <category term="嵌入式" scheme="https://ivylegends.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
-    <category term="单片机" scheme="https://ivylegends.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+    <category term="51单片机" scheme="https://ivylegends.cn/tags/51%E5%8D%95%E7%89%87%E6%9C%BA/"/>
     
     <category term="中断" scheme="https://ivylegends.cn/tags/%E4%B8%AD%E6%96%AD/"/>
     
@@ -234,19 +274,27 @@
     <title>Keil5 问题处理方案合集</title>
     <link href="https://ivylegends.cn/posts/6b7d0a1b.html"/>
     <id>https://ivylegends.cn/posts/6b7d0a1b.html</id>
-    <published>2019-12-28T09:55:03.000Z</published>
-    <updated>2022-10-24T11:05:58.747Z</updated>
+    <published>2019-12-28T17:55:03.000Z</published>
+    <updated>2023-07-26T04:04:30.835Z</updated>
     
     
-    <summary type="html">&lt;ol&gt;
-&lt;li&gt;&lt;h2 id=&quot;中文显示乱码&quot;&gt;&lt;a href=&quot;#中文显示乱码&quot; class=&quot;headerlink&quot; title=&quot;中文显示乱码&quot;&gt;&lt;/a&gt;中文显示乱码&lt;/h2&gt;&lt;p&gt;点击Edit - Configuration ，如图所示，点击ok即可&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;中文显示乱码&quot;&gt;&lt;a href=&quot;#中文显示乱码&quot; class=&quot;headerlink&quot; title=&quot;中文显示乱码&quot;&gt;&lt;/a&gt;中文显示乱码&lt;/h2&gt;&lt;p&gt;点击Edit - Configuration ，如图所示，点击ok即可&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
     
     
     
+    <category term="嵌入式" scheme="https://ivylegends.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    
+    <category term="错误修复" scheme="https://ivylegends.cn/tags/%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D/"/>
     
     <category term="Keil" scheme="https://ivylegends.cn/tags/Keil/"/>
-    
-    <category term="Error" scheme="https://ivylegends.cn/tags/Error/"/>
     
   </entry>
   
@@ -254,14 +302,21 @@
     <title>C语言代码规范（编程规范）</title>
     <link href="https://ivylegends.cn/posts/8400862f.html"/>
     <id>https://ivylegends.cn/posts/8400862f.html</id>
-    <published>2019-12-28T00:00:50.000Z</published>
-    <updated>2022-10-24T11:05:58.738Z</updated>
+    <published>2019-12-28T08:00:50.000Z</published>
+    <updated>2023-07-26T04:04:30.835Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;什么叫规范？&quot;&gt;&lt;a href=&quot;#什么叫规范？&quot; class=&quot;headerlink&quot; title=&quot;什么叫规范？&quot;&gt;&lt;/a&gt;什么叫规范？&lt;/h2&gt;&lt;p&gt;​        在&lt;a href=&quot;http://c.biancheng.net/c/&quot;&gt;C语言&lt;/a&gt;中不遵守编译器的规定，编译器在编译时就会报错，这个规定叫作规则。但是有一种规定，它是一种人为的、约定成俗的，即使不按照那种规定也不会出错，这种规定就叫作规范。&lt;/p&gt;
-&lt;p&gt;​        虽然我们不按照规范也不会出错，但是那样代码写得就会很乱。大家刚开始学习C语言的时候，第一步不是说要把程序写正确，而是要&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;什么叫规范？&quot;&gt;&lt;a href=&quot;#什么叫规范？&quot; class=&quot;headerlink&quot; title=&quot;什么叫规范？&quot;&gt;&lt;/a&gt;什么叫规范？&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;   </summary>
+        
+      
     
     
+    
+    <category term="编程语言" scheme="https://ivylegends.cn/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
     
     
     <category term="C" scheme="https://ivylegends.cn/tags/C/"/>
@@ -274,13 +329,15 @@
     <title>单片机培训日志</title>
     <link href="https://ivylegends.cn/posts/d2b1955a.html"/>
     <id>https://ivylegends.cn/posts/d2b1955a.html</id>
-    <published>2019-12-27T08:51:44.000Z</published>
-    <updated>2022-10-24T11:05:58.775Z</updated>
+    <published>2019-12-27T16:51:44.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
-    <summary type="html">&lt;p&gt;特地写下这篇文章，以便以后复习使用。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;特地写下这篇文章，以便以后复习使用。</summary>
     
     
+    
+    <category term="嵌入式" scheme="https://ivylegends.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
     
     <category term="单片机" scheme="https://ivylegends.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
@@ -288,36 +345,30 @@
   </entry>
   
   <entry>
-    <title>Visual Studio 修炼手册</title>
-    <link href="https://ivylegends.cn/posts/e27e8aa0.html"/>
-    <id>https://ivylegends.cn/posts/e27e8aa0.html</id>
-    <published>2019-12-27T00:29:46.000Z</published>
-    <updated>2022-11-04T01:32:37.117Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;Visual-Studio-简介&quot;&gt;&lt;a href=&quot;#Visual-Studio-简介&quot; class=&quot;headerlink&quot; title=&quot;Visual Studio 简介&quot;&gt;&lt;/a&gt;Visual Studio 简介&lt;/h2&gt;&lt;p&gt;​           &lt;a href=&quot;http://visualstudio.microsoft.com/zh-hans/vs/&quot;&gt;Visual Studio&lt;/a&gt;是最流行的Windows平台应用程序的集成开发环境。不得不说，不安装VS，不能称为程序员（手动滑稽），系统内置了大量的编译环境，如C\C++ 、CSharp、.NET…… 还有我很多至今仍然没有使用过的神奇语言，现在VS2019 已支持自定义安装，嘿嘿，我只安装C\C++&lt;br&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Visual Studio" scheme="https://ivylegends.cn/tags/Visual-Studio/"/>
-    
-    <category term="Extension" scheme="https://ivylegends.cn/tags/Extension/"/>
-    
-  </entry>
-  
-  <entry>
     <title>《平凡的世界》经典语句摘抄</title>
     <link href="https://ivylegends.cn/posts/de19e588.html"/>
     <id>https://ivylegends.cn/posts/de19e588.html</id>
-    <published>2019-07-23T02:32:00.000Z</published>
-    <updated>2022-10-24T11:05:58.758Z</updated>
+    <published>2019-07-23T10:32:00.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
-    <summary type="html">&lt;p&gt;1.什么是人生？人生就是永不休止的奋斗！只有选定了目标并在奋斗中感到自己的努力没有虚掷，这样的生活才是充实的，精神也会永远年轻。&lt;br&gt;&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;什么是人生？人生就是永不休止的奋斗！只有选定了目标并在奋斗中感到自己的努力没有虚掷，这样的生活才是充实的，精神也会永远年轻。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;生活啊，生活！你有多少苦难，又有多少甘甜！天空不会永远阴暗，当乌云退尽的时候，蓝天上灿烂的阳光就</summary>
+        
+      
     
     
     
+    <category term="人文哲学" scheme="https://ivylegends.cn/categories/%E4%BA%BA%E6%96%87%E5%93%B2%E5%AD%A6/"/>
+    
+    
+    <category term="平凡的世界" scheme="https://ivylegends.cn/tags/%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%96%E7%95%8C/"/>
     
   </entry>
   
@@ -325,14 +376,24 @@
     <title>关于自信那点事</title>
     <link href="https://ivylegends.cn/posts/8a35f90.html"/>
     <id>https://ivylegends.cn/posts/8a35f90.html</id>
-    <published>2019-07-23T02:07:44.000Z</published>
-    <updated>2022-10-24T11:05:58.768Z</updated>
+    <published>2019-07-23T10:07:44.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
-    <summary type="html">&lt;p&gt;自信五要素 :&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;如何对抗自卑, 重拾自信, 天生我才必有用！&lt;span class=&quot;hidden-anchor&quot;</summary>
+        
+      
     
     
     
+    <category term="人文哲学" scheme="https://ivylegends.cn/categories/%E4%BA%BA%E6%96%87%E5%93%B2%E5%AD%A6/"/>
+    
+    
+    <category term="自信" scheme="https://ivylegends.cn/tags/%E8%87%AA%E4%BF%A1/"/>
     
   </entry>
   
@@ -340,13 +401,15 @@
     <title>记 Python UnicodeDecodeError 修复</title>
     <link href="https://ivylegends.cn/posts/4709c83f.html"/>
     <id>https://ivylegends.cn/posts/4709c83f.html</id>
-    <published>2019-07-21T09:41:44.000Z</published>
-    <updated>2022-10-24T11:05:58.785Z</updated>
+    <published>2019-07-21T17:41:44.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
-    <summary type="html">&lt;p&gt;今天打开终端输入python ，回车，突然出现如下情况&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;今天打开终端输入python ，回车，突然出现如下情况</summary>
     
     
+    
+    <category term="编程语言" scheme="https://ivylegends.cn/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
     
     
     <category term="Python" scheme="https://ivylegends.cn/tags/Python/"/>
@@ -359,13 +422,21 @@
     <title>DPlayer 调用测试</title>
     <link href="https://ivylegends.cn/posts/5fb02ac6.html"/>
     <id>https://ivylegends.cn/posts/5fb02ac6.html</id>
-    <published>2019-07-21T09:40:54.000Z</published>
-    <updated>2022-10-30T12:26:57.585Z</updated>
+    <published>2019-07-21T17:40:54.000Z</published>
+    <updated>2023-07-26T04:04:30.835Z</updated>
     
     
-    <summary type="html">&lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h3&gt;&lt;p&gt;​        DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;    DPlayer is a lovely HTML5 danmaku video player to help</summary>
+        
+      
     
     
+    
+    <category term="前端" scheme="https://ivylegends.cn/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
     <category term="DPlayer" scheme="https://ivylegends.cn/tags/DPlayer/"/>
@@ -376,15 +447,24 @@
     <title>Hello World</title>
     <link href="https://ivylegends.cn/posts/4a17b156.html"/>
     <id>https://ivylegends.cn/posts/4a17b156.html</id>
-    <published>2019-07-20T11:23:44.000Z</published>
-    <updated>2022-10-24T11:05:58.760Z</updated>
+    <published>2019-07-20T19:23:44.000Z</published>
+    <updated>2023-07-26T04:04:30.839Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
     
     
     
+    <category term="博客" scheme="https://ivylegends.cn/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://ivylegends.cn/tags/Hexo/"/>
     
   </entry>
   

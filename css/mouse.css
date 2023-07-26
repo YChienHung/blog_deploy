@@ -1,0 +1,10 @@
+/* 鼠标样式 */
+body {
+    cursor: url("/images/mouse/normal.cur"), default;
+}
+
+a,
+img,
+button {
+    cursor: url("/images/mouse/link.cur"), default !important;
+}

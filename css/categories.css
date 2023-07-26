@@ -1,0 +1,76 @@
+.category-lists .category-list {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    margin: 5em 0 3em;
+}
+
+.category-lists ul {
+    padding: 0;
+}
+
+.category-lists ul li {
+    display: flex;
+    width: fit-content;
+    font-size: 1.2em !important;
+    padding: 0.2em 0.5em;
+    background: var(--HiPeach-card-bg);
+    margin: 0.5em 0.5em;
+    border-radius: 12px;
+    -webkit-backface-visibility: hidden;
+    -webkit-transform-style: preserve-3d;
+    border: var(--style-border-always);
+    box-shadow: var(--HiPeach-shadow-border);
+    align-items: center;
+}
+
+.category-lists .category-list a {
+    color: var(--HiPeach-fontcolor) !important;
+}
+
+.category-lists .category-list a:hover {
+    color: var(--HiPeach-blue) !important;
+}
+
+.category-lists .category-list li {
+    transition: all .2s;
+}
+
+.category-lists .category-list li:hover {
+    transform: scale(1.05);
+}
+
+.category-lists ul li:before {
+    position: unset;
+    border: 0;
+    border-radius: 0;
+    background: 0;
+    color: var(--HiPeach-fontcolor) !important;
+    cursor: pointer;
+    content: "\e038" !important;
+    opacity: 0.4;
+    padding-top: 2px;
+    padding-right: 2px;
+}
+
+.category-lists .category-list .category-list-count {
+    background: var(--HiPeach-secondbg);
+    padding: 4px 4px;
+    border-radius: 6px;
+    color: var(--HiPeach-secondtext);
+    line-height: 1;
+    text-align: center;
+    min-width: 35px;
+    display: inline-block;
+    font-size: 1rem;
+    box-shadow: var(--HiPeach-shadow-border);
+}
+
+.category-lists .category-list .category-list-count:before,
+.category-lists .category-list .category-list-count:after {
+    content: '';
+}
+
+/* 分类页样式 */

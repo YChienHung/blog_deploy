@@ -1,0 +1,32 @@
+/*#archive .pagination > * {*/
+/*    border-radius: 8px;*/
+/*    display: inline-block;*/
+/*    margin: 0 6px;*/
+/*    width: 2.5em;*/
+/*    height: 2.5em;*/
+/*    line-height: 2.5em;*/
+/*    min-width: 24px;*/
+/*    text-align: center;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*#archive .pagination > *:hover {*/
+/*    background: var(--card-bg);*/
+/*    -webkit-box-shadow: var(--card-box-shadow);*/
+/*    box-shadow: var(--card-box-shadow);*/
+/*    -webkit-transition: all 0.3s;*/
+/*    -moz-transition: all 0.3s;*/
+/*    -o-transition: all 0.3s;*/
+/*    -ms-transition: all 0.3s;*/
+/*    transition: all 0.3s;*/
+/*}*/
+
+svg.icon {
+    /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */
+    width: 1em;
+    height: 1em;
+    /* width和height定义图标的默认宽度和高度*/
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
