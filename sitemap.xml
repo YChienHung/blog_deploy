@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://ivylegends.cn/about/index.html</loc>
-    
-    <lastmod>2023-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ivylegends.cn/categories/index.html</loc>
     
     <lastmod>2023-07-26</lastmod>
@@ -39,6 +30,15 @@
   
   <url>
     <loc>https://ivylegends.cn/charts/index.html</loc>
+    
+    <lastmod>2023-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivylegends.cn/about/index.html</loc>
     
     <lastmod>2023-07-26</lastmod>
     
