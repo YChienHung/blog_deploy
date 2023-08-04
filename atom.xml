@@ -6,7 +6,7 @@
   <link href="https://ivylegends.cn/atom.xml" rel="self"/>
   
   <link href="https://ivylegends.cn/"/>
-  <updated>2023-07-26T05:24:07.094Z</updated>
+  <updated>2023-08-04T08:09:41.968Z</updated>
   <id>https://ivylegends.cn/</id>
   
   <author>
@@ -17,14 +17,237 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>在使用AMP下进行梯度剪裁需要注意的细节</title>
+    <link href="https://ivylegends.cn/posts/ba73a23a.html"/>
+    <id>https://ivylegends.cn/posts/ba73a23a.html</id>
+    <published>2023-08-04T08:09:41.968Z</published>
+    <updated>2023-08-04T08:09:41.968Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;在AMP下训练时使用梯度剪裁的范例&quot;&gt;在AMP下训练时使用梯度剪裁的范例&lt;/h2&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="深度学习" scheme="https://ivylegends.cn/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Pytorch" scheme="https://ivylegends.cn/tags/Pytorch/"/>
+    
+    <category term="Python" scheme="https://ivylegends.cn/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Conda常用命令用例</title>
+    <link href="https://ivylegends.cn/posts/237f491f.html"/>
+    <id>https://ivylegends.cn/posts/237f491f.html</id>
+    <published>2023-08-04T08:09:41.964Z</published>
+    <updated>2023-08-04T08:09:41.964Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;应用场景说明&quot;&gt;应用场景说明&lt;/h2&gt;
+&lt;p&gt;在用Python时，会有不同的版本要求，&lt;br&gt;
+比如有的使用Python 2.7，有的使用Python3.5，</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://ivylegends.cn/categories/Python/"/>
+    
+    
+    <category term="Anaconda" scheme="https://ivylegends.cn/tags/Anaconda/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python如何在终端彩色打印输出</title>
+    <link href="https://ivylegends.cn/posts/1c87970e.html"/>
+    <id>https://ivylegends.cn/posts/1c87970e.html</id>
+    <published>2023-08-04T08:09:41.964Z</published>
+    <updated>2023-08-04T08:09:41.964Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-引言&quot;&gt;1.引言&lt;/h2&gt;
+&lt;p&gt;创建命令行程序很棒：命令行可以按照我们的设定完成相应的工作，相比GUI界面程序，无需花费数小时尝试使</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://ivylegends.cn/categories/Python/"/>
+    
+    
+    <category term="Terminal" scheme="https://ivylegends.cn/tags/Terminal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一种非常强大的学习工具：如何在阅读时做笔记</title>
+    <link href="https://ivylegends.cn/posts/a460380c.html"/>
+    <id>https://ivylegends.cn/posts/a460380c.html</id>
+    <published>2023-08-04T08:09:41.964Z</published>
+    <updated>2023-08-04T08:09:41.968Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Note-taking is an incredibly powerful tool for</summary>
+        
+      
+    
+    
+    
+    <category term="能力提升" scheme="https://ivylegends.cn/categories/%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87/"/>
+    
+    
+    <category term="高效学习" scheme="https://ivylegends.cn/tags/%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>过去的，过不去的，最终也都会过去。</title>
+    <link href="https://ivylegends.cn/posts/65f54b0d.html"/>
+    <id>https://ivylegends.cn/posts/65f54b0d.html</id>
+    <published>2023-08-01T21:56:45.000Z</published>
+    <updated>2023-08-04T08:09:41.968Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;人一定要有翻篇的能力，如果总是抓着过去的人和事不放，对那些受过的委屈和伤害耿耿干怀，&lt;br&gt;
+甚至在那些无法改变的事情上持续消耗自己，长此以往就会变得拧巴和不快乐，会让你对生活失去热情。&lt;/p&gt;
+&lt;p&gt;不要为了已经打翻的牛奶而哭泣，过去的就让它过去，拿得起也放得下，好起来的</summary>
+        
+      
+    
+    
+    
+    <category term="人文哲学" scheme="https://ivylegends.cn/categories/%E4%BA%BA%E6%96%87%E5%93%B2%E5%AD%A6/"/>
+    
+    
+    <category term="心理学" scheme="https://ivylegends.cn/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>概率论</title>
+    <link href="https://ivylegends.cn/posts/155618b9.html"/>
+    <id>https://ivylegends.cn/posts/155618b9.html</id>
+    <published>2023-08-01T10:55:15.000Z</published>
+    <updated>2023-08-04T08:09:41.968Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;基础概率论&lt;/h1&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="数学基础" scheme="https://ivylegends.cn/categories/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="概率论" scheme="https://ivylegends.cn/tags/%E6%A6%82%E7%8E%87%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>荣格心理学名言摘抄</title>
+    <link href="https://ivylegends.cn/posts/d2f45a10.html"/>
+    <id>https://ivylegends.cn/posts/d2f45a10.html</id>
+    <published>2023-07-30T17:16:19.000Z</published>
+    <updated>2023-08-04T08:09:41.968Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;聪明征服世界，单纯却征服灵魂。&lt;/li&gt;
+&lt;li&gt;与其做一个好人，我宁愿做一个完整的人。&lt;/li&gt;
+&lt;li&gt;你生命的前半辈子或许属于别人，活在别人的认为里，那把后半辈子还给你自己，去追随你内在的声音。&lt;/li&gt;
+&lt;li&gt;集合起一百个伟大头脑，就会得到一个大傻瓜。</summary>
+        
+      
+    
+    
+    
+    <category term="人文哲学" scheme="https://ivylegends.cn/categories/%E4%BA%BA%E6%96%87%E5%93%B2%E5%AD%A6/"/>
+    
+    
+    <category term="名人名言" scheme="https://ivylegends.cn/tags/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80/"/>
+    
+    <category term="心理学" scheme="https://ivylegends.cn/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>查看服务器中Visdom的绘制情况</title>
+    <link href="https://ivylegends.cn/posts/3d7f1ec.html"/>
+    <id>https://ivylegends.cn/posts/3d7f1ec.html</id>
+    <published>2023-07-27T15:51:45.000Z</published>
+    <updated>2023-08-04T08:09:41.968Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="深度学习" scheme="https://ivylegends.cn/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Visdom" scheme="https://ivylegends.cn/tags/Visdom/"/>
+    
+  </entry>
+  
+  <entry>
     <title>好了歌注</title>
     <link href="https://ivylegends.cn/posts/ce44b1dc.html"/>
     <id>https://ivylegends.cn/posts/ce44b1dc.html</id>
     <published>2023-07-24T15:43:29.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.968Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;poem&quot;&gt;&lt;div class=&quot;poem-title&quot;&gt;好了歌注&lt;/div&gt;&lt;div</summary>
+        
+      
     
     
     
@@ -42,10 +265,17 @@
     <link href="https://ivylegends.cn/posts/66eed666.html"/>
     <id>https://ivylegends.cn/posts/66eed666.html</id>
     <published>2022-10-18T17:46:35.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.964Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;参考文献&quot;&gt;参考文献&lt;/h2&gt;
+&lt;div class=&quot;reference-source&quot;&gt;&lt;span class=&quot;hidden-anchor&quot; id=&quot;referfrom_[1]&quot;&gt;&lt;/span&gt;&lt;a class=&quot;reference-anchor&quot;</summary>
+        
+      
     
     
     
@@ -65,7 +295,7 @@
     <link href="https://ivylegends.cn/posts/1231feec.html"/>
     <id>https://ivylegends.cn/posts/1231feec.html</id>
     <published>2022-10-16T19:34:48.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.964Z</updated>
     
     
     <summary type="html">个人博客的装修记录</summary>
@@ -86,10 +316,19 @@
     <link href="https://ivylegends.cn/posts/2d5c80db.html"/>
     <id>https://ivylegends.cn/posts/2d5c80db.html</id>
     <published>2020-07-28T19:21:49.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.968Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;热门是昨日的成就，主流是今日的局限，边缘是明日的机会。&lt;/li&gt;
+&lt;/ol&gt;
+</summary>
+        
+      
     
     
     
@@ -105,10 +344,10 @@
     <link href="https://ivylegends.cn/posts/e9df9350.html"/>
     <id>https://ivylegends.cn/posts/e9df9350.html</id>
     <published>2020-06-26T10:11:23.000Z</published>
-    <updated>2023-07-26T05:24:07.090Z</updated>
+    <updated>2023-08-04T08:09:41.964Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;这是我整理的一些坑，希望不要再遇到了……每一个坑都是一座难以翻越的大山&lt;br&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+    <summary type="html">&lt;p&gt;这是我整理的一些坑，希望不要再遇到了……每一个坑都是一座难以翻越的大山&lt;/p&gt;</summary>
     
     
     
@@ -126,10 +365,17 @@
     <link href="https://ivylegends.cn/posts/e9b8d0e.html"/>
     <id>https://ivylegends.cn/posts/e9b8d0e.html</id>
     <published>2020-06-07T13:08:52.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.964Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;先在&lt;code&gt;platformio.ini&lt;/code&gt;下设置一下监听的串口以及波特率,当然这里也可以略过，后面还会讲到&lt;/p&gt;
+&lt;figure class=&quot;highlight ini&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
     
     
     
@@ -147,10 +393,19 @@
     <link href="https://ivylegends.cn/posts/38e6e1ff.html"/>
     <id>https://ivylegends.cn/posts/38e6e1ff.html</id>
     <published>2020-05-27T22:21:37.000Z</published>
-    <updated>2023-07-26T05:24:07.090Z</updated>
+    <updated>2023-08-04T08:09:41.964Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;string 转 CString&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&quot;highlight cpp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
     
     
     
@@ -166,10 +421,16 @@
     <link href="https://ivylegends.cn/posts/cbafdc19.html"/>
     <id>https://ivylegends.cn/posts/cbafdc19.html</id>
     <published>2020-03-19T17:11:25.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.968Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
     
     
     
@@ -185,12 +446,14 @@
     <link href="https://ivylegends.cn/posts/b0d1ebb.html"/>
     <id>https://ivylegends.cn/posts/b0d1ebb.html</id>
     <published>2020-01-01T12:07:24.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.968Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;ol&gt;
-&lt;li&gt;&lt;h2 id=&quot;基本通信方式&quot;&gt;&lt;a href=&quot;#基本通信方式&quot; class=&quot;headerlink&quot; title=&quot;基本通信方式&quot;&gt;&lt;/a&gt;基本通信方式&lt;/h2&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;h2 id=&quot;基本通信方式&quot;&gt;基本通信方式&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary>
     
     
     
@@ -208,13 +471,16 @@
     <link href="https://ivylegends.cn/posts/3c079718.html"/>
     <id>https://ivylegends.cn/posts/3c079718.html</id>
     <published>2019-12-31T16:20:59.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.968Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;h3 id=&quot;中断&quot;&gt;&lt;a href=&quot;#中断&quot; class=&quot;headerlink&quot; title=&quot;中断&quot;&gt;&lt;/a&gt;中断&lt;/h3&gt;&lt;/li&gt;
+    <summary type="html">&lt;h2 id=&quot;定义&quot;&gt;定义&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;中断&quot;&gt;中断&lt;/h3&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;在CPU处理某一事件A时，发生了另一事件B，请求CPU迅速去处理（中断发生）；CPU暂时停止当前的工作（中断响应），转去处理事件B（中断服务）；待CPU处理事件B完毕后，再回到原来事件A被中断的地方继续处理事件A（中断返回），这过程称为中断。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+&lt;p&gt;在CPU处理某一事件A时，发生了另一事件B，请求CPU迅速去处理（中断发生）；CPU暂时停止当前的工作（中断响应），转去处理事件B（中断服务）；待CPU处理事件B完毕后，再回到原来事件A被中断的地方继续处理事件A（中断返回），这过程称为中断。&lt;/p&gt;</summary>
     
     
     
@@ -232,10 +498,18 @@
     <link href="https://ivylegends.cn/posts/6b7d0a1b.html"/>
     <id>https://ivylegends.cn/posts/6b7d0a1b.html</id>
     <published>2019-12-28T17:55:03.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
+    <updated>2023-08-04T08:09:41.964Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;中文显示乱码&quot;&gt;中文显示乱码&lt;/h2&gt;
+&lt;p&gt;点击Edit - Configuration ，如图所示，点击ok即可&lt;/p&gt;
+&lt;img src=&quot;/posts/6b7d0a1b/ChineseError.png&quot;</summary>
+        
+      
     
     
     
@@ -253,10 +527,17 @@
     <link href="https://ivylegends.cn/posts/8400862f.html"/>
     <id>https://ivylegends.cn/posts/8400862f.html</id>
     <published>2019-12-28T08:00:50.000Z</published>
-    <updated>2023-07-26T05:24:07.090Z</updated>
+    <updated>2023-08-04T08:09:41.964Z</updated>
     
     
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;什么叫规范？&quot;&gt;什么叫规范？&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;   </summary>
+        
+      
     
     
     
@@ -266,122 +547,6 @@
     <category term="C" scheme="https://ivylegends.cn/tags/C/"/>
     
     <category term="代码规范" scheme="https://ivylegends.cn/tags/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>单片机培训日志</title>
-    <link href="https://ivylegends.cn/posts/d2b1955a.html"/>
-    <id>https://ivylegends.cn/posts/d2b1955a.html</id>
-    <published>2019-12-27T16:51:44.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
-    
-    
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;特地写下这篇文章，以便以后复习使用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</summary>
-    
-    
-    
-    <category term="嵌入式" scheme="https://ivylegends.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-    
-    <category term="单片机" scheme="https://ivylegends.cn/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《平凡的世界》经典语句摘抄</title>
-    <link href="https://ivylegends.cn/posts/de19e588.html"/>
-    <id>https://ivylegends.cn/posts/de19e588.html</id>
-    <published>2019-07-23T10:32:00.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
-    
-    
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
-    
-    
-    
-    <category term="人文哲学" scheme="https://ivylegends.cn/categories/%E4%BA%BA%E6%96%87%E5%93%B2%E5%AD%A6/"/>
-    
-    
-    <category term="平凡的世界" scheme="https://ivylegends.cn/tags/%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%96%E7%95%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于自信那点事</title>
-    <link href="https://ivylegends.cn/posts/8a35f90.html"/>
-    <id>https://ivylegends.cn/posts/8a35f90.html</id>
-    <published>2019-07-23T10:07:44.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
-    
-    
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
-    
-    
-    
-    <category term="人文哲学" scheme="https://ivylegends.cn/categories/%E4%BA%BA%E6%96%87%E5%93%B2%E5%AD%A6/"/>
-    
-    
-    <category term="自信" scheme="https://ivylegends.cn/tags/%E8%87%AA%E4%BF%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>记 Python UnicodeDecodeError 修复</title>
-    <link href="https://ivylegends.cn/posts/4709c83f.html"/>
-    <id>https://ivylegends.cn/posts/4709c83f.html</id>
-    <published>2019-07-21T17:41:44.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
-    
-    
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;今天打开终端输入python ，回车，突然出现如下情况&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</summary>
-    
-    
-    
-    <category term="编程语言" scheme="https://ivylegends.cn/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
-    
-    
-    <category term="Python" scheme="https://ivylegends.cn/tags/Python/"/>
-    
-    <category term="Bug" scheme="https://ivylegends.cn/tags/Bug/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DPlayer 调用测试</title>
-    <link href="https://ivylegends.cn/posts/5fb02ac6.html"/>
-    <id>https://ivylegends.cn/posts/5fb02ac6.html</id>
-    <published>2019-07-21T17:40:54.000Z</published>
-    <updated>2023-07-26T05:24:07.090Z</updated>
-    
-    
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
-    
-    
-    
-    <category term="前端" scheme="https://ivylegends.cn/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="DPlayer" scheme="https://ivylegends.cn/tags/DPlayer/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://ivylegends.cn/posts/4a17b156.html"/>
-    <id>https://ivylegends.cn/posts/4a17b156.html</id>
-    <published>2019-07-20T19:23:44.000Z</published>
-    <updated>2023-07-26T05:24:07.094Z</updated>
-    
-    
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</summary>
-    
-    
-    
-    <category term="博客" scheme="https://ivylegends.cn/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="Hexo" scheme="https://ivylegends.cn/tags/Hexo/"/>
     
   </entry>
   

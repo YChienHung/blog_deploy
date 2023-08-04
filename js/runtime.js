@@ -26,7 +26,7 @@ function freshtime() {
         time[3] = nol(second);
     }
     let currentTimeHtml = ""
-    currentTimeHtml = `<span class='textTip'>本站已经运行了 ${time[0]} 天</span><span id='runtime'> ${time[1]} 小时 ${time[2]} 分 ${time[3]} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`
+    currentTimeHtml = `<span class="textTip">本站已经运行了 ${time[0]} 天</span><span id="runtime"> ${time[1]} 小时 ${time[2]} 分 ${time[3]} 秒 </span> <i class="fas fa-heartbeat" style="color:red"></i>`
     document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
 

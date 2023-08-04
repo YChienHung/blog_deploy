@@ -26,7 +26,7 @@ function owoBig() {
             else continue;
 
             // 禁用右键（手机端长按会出现右键菜单，为了体验给禁用掉）
-            if (document.body.clientWidth <= 768) owo_body.addEventListener('contextmenu', e => e.preventDefault());
+            if (document.body.clientWidth <= 768) owo_body.addeventlistener('contextmenu', e> e.preventDefault());
             // 鼠标移入
             owo_body.onmouseover = (e) => {
                 if (flag && e.target.tagName == 'IMG') {
@@ -43,7 +43,7 @@ function owoBig() {
                         // 设置盒子样式
                         div.style.cssText = `display:flex; height:${height}px; width:${width}px; left:${left}px; top:${top}px;`;
                         // 在盒子中插入图片
-                        div.innerHTML = `<img src="${e.target.src}">`
+                        div.innerHTML = `<img src="/js/twikoo/${e.target.src}">`
                     }, 300);
                 }
             };
@@ -55,4 +55,4 @@ function owoBig() {
 
     })
     observer.observe(document.getElementById('post-comment'), {subtree: true, childList: true}) // 监听的 元素 和 配置项
-}
+}</=>

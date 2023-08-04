@@ -1036,7 +1036,7 @@ var calendarFormatter = {
 
             if (!isAdd) { // 处理闰月
 
-                if (leap <= i && leap > 0) {
+                if (leap <= i && leap> 0) {
 
                     offset += leapDays(y); isAdd = true
 
@@ -1068,4 +1068,4 @@ var calendarFormatter = {
 
     }
 
-}
+}</=></=></=></=></=>

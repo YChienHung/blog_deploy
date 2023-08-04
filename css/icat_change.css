@@ -18,7 +18,7 @@
 .parallax > use:nth-child(1) {
     animation-delay: -2s;
     animation-duration: 7s;
-    fill: rgba(0, 255, 240, 0.0);
+    fill: #f7f9febd;
 }
 
 .parallax > use:nth-child(2) {
